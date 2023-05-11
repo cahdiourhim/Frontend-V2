@@ -63,6 +63,7 @@ import {
     list-style: none;
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
   `;
   
   const ListItem = styled.li`

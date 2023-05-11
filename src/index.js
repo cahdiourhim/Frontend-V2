@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import { Link } from "react-router-dom";
 
+import './index.css'
+
 
 import Connexion from "./pages/Connexion";
 
